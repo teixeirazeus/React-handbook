@@ -27,6 +27,7 @@ English and portuguese content.
 
 [How to Write a Consumer for a TypeScript Library](https://www.tsmean.com/articles/how-to-write-a-typescript-library/local-consumer/)
 
+[React obfuscate](https://dev.to/hmintoh/react-obfuscate-hiding-source-code-from-developer-tools-4ci6)
 
 ## VsCode extensions
 
