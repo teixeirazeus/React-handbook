@@ -1,8 +1,8 @@
 ![banner](https://raw.githubusercontent.com/teixeirazeus/React-handbook/main/readme_assets/banner.png)
 
-Compilation of text, project, modules and other things related to react. 
+Compilation of texts, projects, modules and other things related to react. 
 
-In english and portuguese.
+English and portuguese content.
 
 [Awesome React](https://github.com/enaqx/awesome-react)
 
