@@ -6,7 +6,7 @@ English and portuguese content.
 
 [Awesome React](https://github.com/enaqx/awesome-react)
 
-## Courses
+## :books: Courses 
 [React Course - Beginner's Tutorial for React JavaScript Library [2022]](https://youtu.be/bMknfKXIFA8)
 
 [React in 100 Seconds](https://youtu.be/Tn6-PIqc4UM)
@@ -17,7 +17,7 @@ English and portuguese content.
 
 [Advanced react by Meta](https://www.coursera.org/learn/advanced-react)
 
-## Posts
+## :notebook_with_decorative_cover: Posts
 
 [Page Transitions In React](https://dev.to/joserfelix/page-transitions-in-react-1c8g)
 
@@ -29,7 +29,7 @@ English and portuguese content.
 
 [React obfuscate](https://dev.to/hmintoh/react-obfuscate-hiding-source-code-from-developer-tools-4ci6)
 
-## VsCode extensions
+## :computer: VsCode extensions
 
 [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
 
@@ -43,7 +43,7 @@ English and portuguese content.
 
 [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next)
 
-## Libraries
+## :package: Libraries
 
 [Axios](https://axios-http.com/)
 
@@ -52,7 +52,7 @@ English and portuguese content.
 [Chakra UI](https://chakra-ui.com/)
 
 
-## Css
+## :art: Css
 
 [React Bootstrap](https://react-bootstrap.github.io/)
 
@@ -61,7 +61,7 @@ English and portuguese content.
 [Pure CSS](https://purecss.io/)
 
 
-## Others 
+## :grey_question: Others 
 
 [React examples](https://reactjsexample.com/)
 [Free front-end](https://freefrontend.com/react-code-examples/)
