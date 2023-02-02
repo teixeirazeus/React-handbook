@@ -43,7 +43,7 @@ English and portuguese content.
 
 [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next)
 
-## :package: Libraries
+## :package: Packages
 
 [Axios](https://axios-http.com/)
 
