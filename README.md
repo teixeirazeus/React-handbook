@@ -29,6 +29,8 @@ English and portuguese content.
 
 [React obfuscate](https://dev.to/hmintoh/react-obfuscate-hiding-source-code-from-developer-tools-4ci6)
 
+[Porque utilizar css-modules no React](https://dev.to/gmantovani97/porque-utilizar-css-modules-no-react-1a93)
+
 ## :computer: VsCode extensions
 
 [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
