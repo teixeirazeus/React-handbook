@@ -19,6 +19,10 @@ English and portuguese content.
 
 ## Posts
 
+[Typescript docs](https://www.typescriptlang.org/docs/)
+
+[React docs](https://reactjs.org/docs/getting-started.html)
+
 [Page Transitions In React](https://dev.to/joserfelix/page-transitions-in-react-1c8g)
 
 [Organizing Your React App Into Modules](https://dev.to/jack/organizing-your-react-app-into-modules-d6n)
@@ -59,5 +63,6 @@ English and portuguese content.
 
 ## Others 
 
+[Typescript playground](https://www.typescriptlang.org/play)
 [React examples](https://reactjsexample.com/)
 [Free front-end](https://freefrontend.com/react-code-examples/)
